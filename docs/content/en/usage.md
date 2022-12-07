@@ -49,7 +49,7 @@ The most common way to set page specific SEO settings is though the Nuxt `head()
 </script>
 ```
 
-While accessing `$seo` in the Nuxt `head()` function, you will have access to the `context` object ncluding all `props`, `data`, and `computed` values. Even any prefetched/prerendered data from `asyncData`.
+While accessing `$seo` in the Nuxt `head()` function, you will have access to the `context` object including all `props`, `data`, and `computed` values. Even any prefetched/prerendered data from `asyncData`.
 
 ## asyncData method
 
